@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 李氏學樂錄
-#+DATE: 2018-03-25 15:00:47.616199
+#+DATE: 2018-03-25 15:00:47.660609
 #+PROPERTY: ID KR1i0018
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1i0018_WYG_000-1a>¶
 欽定四庫全書　　　　　經部九¶
